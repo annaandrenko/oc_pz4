@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="oc_pz4.cpp">
+    <ClCompile Include="C_style.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

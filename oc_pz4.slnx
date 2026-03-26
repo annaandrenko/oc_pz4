@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../C++_style/C++_style.vcxproj" />
   <Project Path="oc_pz4.vcxproj" />
 </Solution>
